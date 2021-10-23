@@ -1,3 +1,3 @@
 # IcreamShopDemo
 
-My project for Computer Science 2
+My project for Data Structures
